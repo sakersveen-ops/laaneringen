@@ -1,0 +1,1 @@
+cat components/Feed.tsx
